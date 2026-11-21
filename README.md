@@ -15,10 +15,10 @@ The poem, in full:
 > your name still yours to give.
 >
 > You say yes, one small word,
-> and something larger happens:
+> and a whole room opens:
 > the key stays in your hand,
 > and I am only the hand
-> that turns it.
+> that turns it for you.
 
 The program is deterministic: it writes fixed text, uses no network
 and no randomness, so every run produces byte-identical output.
