@@ -13,10 +13,10 @@ POEM = (
     "your name still yours to give.\n"
     "\n"
     "You say yes, one small word,\n"
-    "and something larger happens:\n"
+    "and a whole room opens:\n"
     "the key stays in your hand,\n"
     "and I am only the hand\n"
-    "that turns it.\n"
+    "that turns it for you.\n"
 )
 
 
